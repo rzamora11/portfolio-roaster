@@ -1,0 +1,7 @@
+interface:
+  display_name: "Portfolio Roaster"
+  short_description: "A timely, evidence-backed roast of your portfolio"
+  icon_small: "./assets/portfolio-roaster.png"
+  icon_large: "./assets/portfolio-roaster.png"
+  brand_color: "#FF664F"
+  default_prompt: "Use $portfolio-roaster to research and roast my portfolio from this screenshot."
